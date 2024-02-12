@@ -1,5 +1,3 @@
-# Pymaceuticals-SCC-Study
-
 # Pymaceuticals Inc. Squamous Cell Carcinoma (SCC) Treatment Analysis
 
 ## Overview
